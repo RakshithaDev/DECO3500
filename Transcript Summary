@@ -60,3 +60,74 @@ Adult modern art gallery visitors who:
 -Appreciate hands-on participatory activities that foster shared creativity.
 
 -Desire deeper emotional and social connections with artworks and co-visitors.
+
+
+
+
+Participant 3
+AUDIENCE / USERS
+- General gallery visitors without formal art backgrounds, often visiting with friends/partners.
+- Value stories, technique, and “human touch” narration; enjoy dialogue and shared interpretation.
+- Want immersion without disruption; open to tech if it enhances focus and social connection.
+
+PROBLEM SPACE
+- Context (audio stories, music, artist intent) turns viewing into felt experience.
+- Social dynamics are mixed: dialogue with companions helps; noisy crowds break immersion.
+- Physical constraints limit close inspection (can’t touch/lean in/zoom to see technique).
+- Access models (e.g., free entry) diversify audiences but also increase distraction risk.
+
+DESIGN GAPS
+1) Depth beyond plaques: plaques are concise; visitors crave organic, empathetic narration in situ.
+2) Social signal control: no way to tune what you hear from others; noise disrupts audio tours.
+3) Close-looking limitations: lack of safe, detail-rich “zoom”/inspection affordances on site.
+4) Multivocal meaning: no structured layer to integrate artist/curator/peer/visitor viewpoints live.
+
+CORE GAP
+How might we support meaningful, immersive, and socially balanced ways for visitors to connect with art and each other while overcoming disruptions and physical limits of the gallery space?
+
+DESIGN OPPORTUNITIES
+1) Human-centered narratives
+   - Augment audio/AR with organic, empathetic storytelling; keep the “human touch” even if AI-assisted.
+2) Controlled social layers
+   - XR group “bubbles” to hear only your companions; noise filtering that preserves immersion.
+3) Virtual extensions of the room
+   - XR mirror of the gallery to safely zoom into brushwork, materials, technique, and composition.
+4) Shared multivocal overlays
+   - Layer artist intent, curator notes, peer interpretations, and live visitor reactions as opt‑in overlays.
+
+
+
+Participant 4
+AUDIENCE / USERS
+- Modern art gallery visitors who experience varied emotional responses (empathy vs. alienation).
+- Often attend with companions; seek both personal meaning and social validation.
+
+PROBLEM SPACE
+- Emotion is unevenly triggered: narrative/atmosphere (e.g., exhibition on Aboriginal suffering) evokes empathy; abstract works feel inaccessible.
+- Social sharing is ad hoc: overhearing or post-visit vlogs; little structured in‑situ sharing.
+- Feelings stay private; opportunities for collective reflection are missed.
+
+DESIGN GAPS
+1) Lack of synchronous emotional sharing
+   - In-gallery tools don’t let visitors sense each other’s changing emotions in real time.
+2) Bridge to abstract art
+   - No mechanism to reframe “I don’t get it” into curiosity via others’ perspectives/emotions.
+3) Contextual scaffolding
+   - Emotional resonance depends on exhibition design; there’s no dynamic, visitor-driven layer.
+
+CORE GAP
+How might we transform internal, often-isolated emotions into shared, situated, and co-created expressions inside galleries?
+
+DESIGN OPPORTUNITIES
+1) Emotion-to-media transformation
+   - Use AI/AR/music to convert feelings into shareable artifacts (e.g., affect-driven AR visuals) anchored to artworks.
+2) Synchronous emotion sharing
+   - Biofeedback-driven experiences (heart-rate wearables, group “pulse” visualizations) for real-time resonance.
+3) Social validation & collective meaning
+   - Lightweight ways to capture/see diverse reactions in situ to reduce alienation with abstract works.
+4) Curiosity pathways
+   - Prompt re-interpretation of difficult pieces via co-created music, emotional overlays, or narrative snippets.
+
+
+
+
