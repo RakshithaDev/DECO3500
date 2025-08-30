@@ -81,3 +81,16 @@ Hi all, each of us need to prepare our **presentation scripts** for Tuesday sess
 - Monday 8:00–9:00pm (Online, Discord → Voice channel “Meetings”)  
 
 ---
+
+## Week 5-team weekly meeting
+- Discussed insights from each interview transcript.  
+- Shared thoughts about the prototype brief.  
+- Set future plans and assigned tasks.  
+
+## Assigned Tasks  
+- **Zan, Andrew, Fay** – Conduct background research (interviews, literature, context) and analysis.  
+- **Prisha, Rakshita** – Conduct background check on technical research.  
+
+## Week 6 Plan  
+- **Tuesday** – Discuss 2–3 ideas.  
+- **Wednesday** – Test paper prototype. 
