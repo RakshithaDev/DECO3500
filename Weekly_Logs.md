@@ -92,6 +92,17 @@ Hi all, each of us need to prepare our **presentation scripts** for Tuesday sess
 - **Prisha, Rakshita** – Conduct background check on technical research.  
 
 ## Week 6 Plan  
-- **Tuesday** – Discuss 2–3 ideas.  
-- **Wednesday** – Test paper prototype. 
+- **Tuesday** – Discuss 2–3 ideas and design the paper prototypes.
+- **Wednesday** – Finalise the paper prototypes for 1) AR Bubbles &2) AI Music Co-creation
+- **Friday** - Test paper prototype and noted down the feedback from participants, minimum 3 for each.
+
+## Week 6-team weekly meeting  
+
+### Assigned Tasks  
+- **Prisha, Rakshitha** – Research how to implement the AR concept and draft the user flow (what it looks like to you).  
+- **Zan, Andrew, Lemuria Fay Fernandez** – Analyse data from user testing, identify key features, and create a user flow from a design perspective.  
+
+### week 7 Plan  
+- **Tuesday** – Team discussion to finalise the flow and sketch wireframes.  
+- **Weekend** – Develop Figma designs.  
 
