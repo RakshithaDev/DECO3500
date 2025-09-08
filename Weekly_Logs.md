@@ -91,7 +91,7 @@ Hi all, each of us need to prepare our **presentation scripts** for Tuesday sess
 - **Zan, Andrew, Fay** – Conduct background research (interviews, literature, context) and analysis.  
 - **Prisha, Rakshita** – Conduct background check on technical research.  
 
-## Week 6 Plan  
+### Week 6 Plan  
 - **Tuesday** – Discuss 2–3 ideas and design the paper prototypes.
 - **Wednesday** – Finalise the paper prototypes for 1) AR Bubbles &2) AI Music Co-creation
 - **Friday** - Test paper prototype and noted down the feedback from participants, minimum 3 for each.
