@@ -1,0 +1,27 @@
+Navigation for the AR Idea
+
+Flow A: Scan → AR
+
+User scans QR → browser opens /ar?id=art1
+
+Ask camera permission → on allow → AR scene loads
+
+“Find ART1” hint → user points at artwork → comment panel appears
+
+CTA: “Learn more”, “Audio guide”, or “Share” (optional)
+
+
+
+Flow B: No QR → Browse
+
+User opens home/landing → taps “Browse artworks”
+
+Search/list → selects artwork → opens /ar?id=…
+
+Same AR steps as Flow A
+
+
+
+Flow C: Permission denied
+
+Deny camera → show overlay with “Enable camera in Settings” + fallback “View 3D/Info” (non-AR)
