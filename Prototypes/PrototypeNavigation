@@ -1,27 +1,33 @@
 Navigation for the AR Idea
 
-Flow A: Scan → AR
+Scan QR or open artwork page
+→ Browser loads /ar?id=artX.
 
-User scans QR → browser opens /ar?id=art1
+Prompt: Allow camera?
+→ User is asked for camera access.
 
-Ask camera permission → on allow → AR scene loads
+User denies permission
+→ Selects No / Deny.
 
-“Find ART1” hint → user points at artwork → comment panel appears
+Overlay shown
+→ “Camera access is needed for AR. You can continue in text mode.”
 
-CTA: “Learn more”, “Audio guide”, or “Share” (optional)
+Fallback panel displayed
+→ Placeholder panel with prompt: “What do you feel about this artwork? Type your thoughts below.”
+
+User writes comment + taps Submit
+→ Their thoughts are saved (local or backend).
+→ Instead of showing a scrollable feed, they only see a confirmation like: “Thanks for sharing!”.
+
+Option: Enable camera (persistent button)
+→ If tapped, the system re-prompts for camera permission.
+
+If camera permission now granted
+→ User is switched into AR mode.
+→ In AR, they can see comments (their own + others) anchored visually on the artwork itself, instead of in a text feed UI.
 
 
 
-Flow B: No QR → Browse
-
-User opens home/landing → taps “Browse artworks”
-
-Search/list → selects artwork → opens /ar?id=…
-
-Same AR steps as Flow A
 
 
 
-Flow C: Permission denied
-
-Deny camera → show overlay with “Enable camera in Settings” + fallback “View 3D/Info” (non-AR)
