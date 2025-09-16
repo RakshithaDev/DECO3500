@@ -106,3 +106,20 @@ Hi all, each of us need to prepare our **presentation scripts** for Tuesday sess
 - **Tuesday** – Team discussion to finalise the flow and sketch wireframes.  
 - **Weekend** – Develop Figma designs.  
 
+# Weekly Meeting Log  
+
+## Week 7  
+
+### Assigned Tasks  
+- **@Lemuria Fay Fernandez, @Zan** – Finish the Figma prototype and make it clickable.  
+- **@AW** – Complete the storyboard about the user experience.  
+- **@Rakshitha, @Prisha** – Focus on the implementation of the AR tech with our idea.  
+
+👉 If you have any doubt, just post here.  
+
+---
+
+## Week 8 Plan  
+- **@Rakshitha, @Prisha** – Create a basic AR experience.  
+- **@AW, @Zan, @Lemuria Fay Fernandez** – Finalise the digital iteration (Prototype 2) and conduct 10 user tests.  
+
