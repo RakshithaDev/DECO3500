@@ -1,0 +1,33 @@
+Navigation for the AR Idea
+
+Scan QR or open artwork page
+→ Browser loads /ar?id=artX.
+
+Prompt: Allow camera?
+→ User is asked for camera access.
+
+User denies permission
+→ Selects No / Deny.
+
+Overlay shown
+→ “Camera access is needed for AR. You can continue in text mode.”
+
+Fallback panel displayed
+→ Placeholder panel with prompt: “What do you feel about this artwork? Type your thoughts below.”
+
+User writes comment + taps Submit
+→ Their thoughts are saved (local or backend).
+→ Instead of showing a scrollable feed, they only see a confirmation like: “Thanks for sharing!”.
+
+Option: Enable camera (persistent button)
+→ If tapped, the system re-prompts for camera permission.
+
+If camera permission now granted
+→ User is switched into AR mode.
+→ In AR, they can see comments (their own + others) anchored visually on the artwork itself, instead of in a text feed UI.
+
+
+
+
+
+
