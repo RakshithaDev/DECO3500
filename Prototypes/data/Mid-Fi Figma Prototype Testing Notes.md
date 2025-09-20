@@ -35,18 +35,18 @@
 
 ## Yu - P5
 - Overall Experience
-Felt confusing and unnatural
-Navigation not smooth; “What’s on my mind” section too abrupt
-AI/Siri-like feature unclear and misleading
+- Felt confusing and unnatural
+- Navigation not smooth; “What’s on my mind” section too abrupt
+- AI/Siri-like feature unclear and misleading
 - Social Connection
-Positive: seeing others’ thoughts helps reduce confusion and sparks curiosity
-Negative: no real-time feedback, feels like posting sticky notes without response
+- Positive: seeing others’ thoughts helps reduce confusion and sparks curiosity
+- Negative: no real-time feedback, feels like posting sticky notes without response
 - Barriers
-Distracting to keep focusing on phone during gallery visit
-Would avoid using in social/gallery settings because it breaks immersion
-Suggestions for Improvement
+- Distracting to keep focusing on phone during gallery visit
+- Would avoid using in social/gallery settings because it breaks immersion
+- Suggestions for Improvement
 - Clarify or redesign AI/Siri function
-Replace full-page transitions with pop-up windows
-Group comments by scene or theme for clarity
-Add highlight feature for user’s own comments
-Consider AR version, though not essential
+- Replace full-page transitions with pop-up windows
+- Group comments by scene or theme for clarity
+- Add highlight feature for user’s own comments
+- Consider AR version, though not essential
