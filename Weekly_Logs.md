@@ -106,20 +106,39 @@ Hi all, each of us need to prepare our **presentation scripts** for Tuesday sess
 - **Tuesday** – Team discussion to finalise the flow and sketch wireframes.  
 - **Weekend** – Develop Figma designs.  
 
-# Weekly Meeting Log  
 
 ## Week 7  
 
 ### Assigned Tasks  
-- **@Lemuria Fay Fernandez, @Zan** – Finish the Figma prototype and make it clickable.  
-- **@AW** – Complete the storyboard about the user experience.  
-- **@Rakshitha, @Prisha** – Focus on the implementation of the AR tech with our idea.  
-
-👉 If you have any doubt, just post here.  
+- Fay and Zan – Finish the Figma prototype and make it clickable.  
+- Andrew – Complete the storyboard about the user experience.  
+- Rakshitha and Prisha – Focus on the implementation of the AR tech with our idea.  
 
 ---
 
 ## Week 8 Plan  
-- **@Rakshitha, @Prisha** – Create a basic AR experience.  
-- **@AW, @Zan, @Lemuria Fay Fernandez** – Finalise the digital iteration (Prototype 2) and conduct 10 user tests.  
+- Rakshitha and Prisha – Create a basic AR experience.  
+- Andrew, Zan and Fay – Finalise the digital iteration (Prototype 2) and conduct user tests.
+
+## Week 8  
+
+### Assigned Tasks  
+- **@Lemuria Fay Fernandez** – Talk about the overall Iteration 2 prototype testing results.  
+- **@Prisha, @Rakshitha** – Talk about how the AR tech part is progressing.  
+- **@everyone** – Prepare for the Week 9 stand-up presentation.  
+- **@Zan, @AW** – Prepare the wiki page for Week 9 (design process).  
+
+---
+
+## Week 9 Plan  
+
+### Assigned Tasks  
+- **Zan, Andrew, Fay** – Finish the wiki page for Week 9 presentation.  
+- **Prisha, Rakshitha** – Finalize the basic AR implementation.  
+
+### Presentation Roles  
+- **Zan** – Introduce the overview of the design process.  
+- **Andrew** – Present the design storyboard.  
+- **Fay** – Introduce the Figma prototype.  
+- **Rakshitha, Prisha** – Present the AR tech progress so far. 
 
