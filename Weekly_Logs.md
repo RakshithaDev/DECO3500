@@ -130,7 +130,7 @@ Hi all, each of us need to prepare our **presentation scripts** for Tuesday sess
 
 ---
 
-## Week 9 Plan  
+### Week 9 Plan  
 
 ### Assigned Tasks  
 - **Zan, Andrew, Fay** – Finish the wiki page for Week 9 presentation.  
@@ -141,4 +141,54 @@ Hi all, each of us need to prepare our **presentation scripts** for Tuesday sess
 - **Andrew** – Present the design storyboard.  
 - **Fay** – Introduce the Figma prototype.  
 - **Rakshitha, Prisha** – Present the AR tech progress so far. 
+
+## Week 9 Standup Feedback
+# Prototype 2 – Studio Presentation Feedback
+
+- **What motivates people to take out their phone**  
+  Explore triggers that make participants reach for their phones—curiosity, social sharing, or a prompt from the environment.
+
+- **Evaluation method**  
+  Define how you’ll measure success. For example: user interviews, observation during the session, or post-experience surveys.
+
+- **Delivering the experience**  
+  Clarify the flow: onboarding, interaction points, and how content is revealed (e.g., AR markers, audio cues, guided path).
+
+- **Focus of the experience**  
+  Decide whether the core is  
+  - users expressing their feelings  
+  - users following a footmark or guided path  
+  - or highlighting the artist’s own commentary.
+
+- **Enhancing the social aspect**  
+  Consider features that let visitors react, share, or respond to each other’s input to strengthen the communal experience.
+
+  ### Plan
+  Based on the feedback, our plan will be:
+
+Zan + Fay + Andrew 
+
+-Pick evaluation methods ( from lecture slides).
+
+-Finalise focus statement (main purpose of prototype).
+
+-Draft motivation triggers (why visitors use phone).
+
+Rakshita + Prisha 
+
+-Make sure prototype runs (input → output → social trace).
+
+-Push to GitHub with demo instructions.
+
+Friday Team Discussion
+
+-Agree on demo essentials: Evaluation method and what's the main features should be done in the demo. 
+
+## Week10
+Discussed both the prototypes
+Rakshitha - add movement/interaction - Add more comments - Add AI
+Prisha -
+Conduct user-testing on Tuesday in the museum
+Finalise the protoype in week 11 after testing
+Prepare tradeshow materials
 
