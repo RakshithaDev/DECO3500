@@ -10,19 +10,19 @@
 - Layout of the three options caused confusion.  
 - Clicking the dots shows feedback, but the interaction wasn’t clear.  
 
-### User 2 (Music – Zhan’s Friend)
+### User 2 (Music)
 - Clock element was confusing.  
 - Preferred having a **side menu** on screen.  
 - Bottom selection was **totally confusing**.  
 - Felt the interaction was not smooth and caused **cognitive overload**.  
 - Suggested looking at other music case studies for references.  
 
-### User 3 (Music – Yves)
+### User 3 (Music)
 - Prefers to listen to people with the same vibe.  
 - Colored dots were confusing.  
 - **Co-creation feature was unclear.**  
 
-### User 4 (Music – Felicia)
+### User 4 (Music)
 - Chose to remain anonymous.  
 - Mentioned a missing feature: allowing users to choose what they want to listen to.  
 - Asked about lazy typing alternatives → we introduced the **generated prompt option**.  
@@ -63,7 +63,7 @@
   2. See others’ feelings.  
   3. Add more comments again.  
 
-### User 3 (AR – Kiichi)
+### User 3 
 - Compared it to a **messenger app** (adding picture, emoji, text).  
 - Would click text input and type feelings anonymously.  
 - AR space: liked like/comment/share interactions.  
