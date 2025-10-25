@@ -1,6 +1,6 @@
 # Participant Feedback
 
-## Yangzhao – P2
+## P2
 - User couldn’t go back
 - So stressful
 - User wanted to generate another one
@@ -10,7 +10,7 @@
 - **To improve:** is there any way to enhance the visualization (e.g. a heatmap or a comment hierarchy/visualization)?
 - Visualization idea: maybe a roadmap of comments from the same person
 
-## Divya – P3
+## P3
 - There is no option to completely go back
 - Anonymous option is good because you don’t want to be judged
 - Nice feature: if there’s no idea or understanding of the artwork, it helps build insights or assumptions
@@ -19,7 +19,7 @@
 - If someone is good-looking, user might hesitate to use
 - Would like a bit of background about the person who is posting to get a better understanding, including how many people visited or commented
 
-## Dev – P4
+## P4
 - The artist and curator are not clearly differentiated
 - Can the user adjust the number of comments? Should artists and public comments be differentiated?
 - Concern about visualization or need for a filter option
@@ -33,7 +33,7 @@
 - If artwork setup is dark or intrusive, user might hesitate to use to avoid disturbing others
 - Wants to see credible artists’ or art-related people’s comments
 
-## Yu - P5
+## P5
 - Overall Experience
 - Felt confusing and unnatural
 - Navigation not smooth; “What’s on my mind” section too abrupt
